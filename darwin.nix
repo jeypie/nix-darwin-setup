@@ -84,6 +84,7 @@
       "daisydisk"
       "airbuddy"
       # "calibre"
+      "obsidian"
     ];
     masApps = {
     #  "Parallels Desktop" = 1085114709;
@@ -107,7 +108,7 @@
       "/Applications/1Password.app"
       "/Applications/Bitwarden.app"
       "/Applications/Spotify.app"
-      "/Applications/Rambox.app"
+    #  "/Applications/Rambox.app"
       "/Applications/Arc.app"
       "/Applications/Obsidian.app"
       "/Users/drackthor/Applications/PyCharm Professional Edition.app"
@@ -115,14 +116,14 @@
     ];
     dock.persistent-others = [
       # sadly need to use CustomUserPreferences at the moment because you can not configure fan etc. here
-      #"/Users/drackthor/Downloads"
+      #"/Users/jan.hoepfner/Downloads"
       #"/Applications"
     ];
     CustomUserPreferences = {
 
     };
 
-    loginwindow.LoginwindowText = "FullStackS Oida!";
+    loginwindow.LoginwindowText = "FullStackS LetsGo!";
     finder.AppleShowAllExtensions = true;
     # finder.FXPreferredViewStyle = "clmv"; # does not work
   };
