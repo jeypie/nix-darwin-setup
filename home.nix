@@ -12,7 +12,7 @@
 
   programs.git = {
     enable = false;
-    userName = "Danie";
+    userName = "jeypie";
     userEmail = "jp@hoepfner.org";
     ignores = [ "*~" ".DS_Store" ];
     extraConfig = {
