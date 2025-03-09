@@ -84,7 +84,7 @@
       "daisydisk"
       "airbuddy"
       # "calibre"
-      "obsidian"
+  #    "obsidian"
     ];
     masApps = {
     #  "Parallels Desktop" = 1085114709;
@@ -95,7 +95,7 @@
   };
 
   system.defaults = {
-    dock.autohide = true;
+    dock.autohide = false;
     dock.mru-spaces =
       false; # i love this, macos will not rearrange the desktops
     dock.magnification = true;
@@ -108,6 +108,7 @@
       "/Applications/1Password.app"
       "/Applications/Bitwarden.app"
       "/Applications/Spotify.app"
+      "/Applications/PyCharm.app"
     #  "/Applications/Rambox.app"
     #  "/Applications/Arc.app"
       "/Applications/Obsidian.app"
