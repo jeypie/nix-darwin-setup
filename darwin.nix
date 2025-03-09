@@ -109,9 +109,9 @@
       "/Applications/Bitwarden.app"
       "/Applications/Spotify.app"
     #  "/Applications/Rambox.app"
-      "/Applications/Arc.app"
+    #  "/Applications/Arc.app"
       "/Applications/Obsidian.app"
-      "/Users/drackthor/Applications/PyCharm Professional Edition.app"
+    #  "/Users/drackthor/Applications/PyCharm Professional Edition.app"
       "/Applications/Google Chrome.app"
     ];
     dock.persistent-others = [
