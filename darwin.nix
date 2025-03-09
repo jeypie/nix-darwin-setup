@@ -84,7 +84,7 @@
       "daisydisk"
       "airbuddy"
       # "calibre"
-  #    "obsidian"
+      "obsidian"
     ];
     masApps = {
     #  "Parallels Desktop" = 1085114709;
