@@ -9,7 +9,7 @@
       find / -type f -name '*changeme*'
       # find files
 
-      darwin-rebuild switch --flake ~/code/repos/drackthor/nix-darwin
+      darwin-rebuild switch --flake ~/code/repos/jan.hoepfner/nix-darwin
       # rebuild nix darwin dystem
 
       nix flake update
