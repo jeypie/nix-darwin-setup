@@ -111,7 +111,6 @@
     #  "/Applications/Rambox.app"
     #  "/Applications/Arc.app"
       "/Applications/Obsidian.app"
-    #  "/Users/drackthor/Applications/PyCharm Professional Edition.app"
       "/Applications/Google Chrome.app"
     ];
     dock.persistent-others = [
@@ -123,7 +122,7 @@
 
     };
 
-    loginwindow.LoginwindowText = "FullStackS LetsGo!";
+    loginwindow.LoginwindowText = "FullStackS Oida .... LetsGo!";
     finder.AppleShowAllExtensions = true;
     # finder.FXPreferredViewStyle = "clmv"; # does not work
   };
