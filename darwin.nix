@@ -8,7 +8,7 @@
   # allow packages which are not open source
   nixpkgs.config.allowUnfree = true;
 
-  networking.computerName = "jpBook.local";
+  networking.computerName = "jpBook";
   networking.hostName = "jpBook";
   # networking.localHostName = "jpBook.local";
   networking.knownNetworkServices = [
