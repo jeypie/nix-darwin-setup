@@ -19,7 +19,6 @@
     "Wi-Fi"
     "Thunderbolt Bridge"
     "iPhone USB USB"
-    "FullStackS Labor RRZ Graz"
   ];
   networking.dns = [ "8.8.8.8" "1.1.1.1" ];
   users.users."jan.hoepfner".home = "/Users/jan.hoepfner";
@@ -81,7 +80,7 @@
       "elgato-stream-deck"
       "vlc"
       # "obs"
-      "daisydisk"
+      # "daisydisk"
       "airbuddy"
       # "calibre"
       "obsidian"
