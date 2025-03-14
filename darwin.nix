@@ -83,9 +83,10 @@
       # "daisydisk"
       "airbuddy"
       # "calibre"
-      "obsidian"
+      # "obsidian"
       "remote-desktop-manager"
       "viscosity"
+      "drawio"   
     ];
     masApps = {
     #  "Parallels Desktop" = 1085114709;
